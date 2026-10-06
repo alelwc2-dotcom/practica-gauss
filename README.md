@@ -18,3 +18,7 @@ Este programa implementa la solución de un sistema de ecuaciones lineales utili
 4. Ejecuta el programa principal con el comando:
    ```bash
    java Ecuaciones_lineales.Lanzador_gaus
+   Soluciones del sistema:
+x1 = 3.0
+x2 = -2.5
+x3 = 7.0
