@@ -15,3 +15,6 @@ Este programa implementa la solución de un sistema de ecuaciones lineales utili
 3. Compila todos los archivos fuente ejecutando el siguiente comando:
    ```bash
    javac Ecuaciones_lineales/*.java
+4. Ejecuta el programa principal con el comando:
+   ```bash
+   java Ecuaciones_lineales.Lanzador_gaus
