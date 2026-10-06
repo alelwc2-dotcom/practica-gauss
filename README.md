@@ -1,7 +1,7 @@
 # Práctica: Método de Gauss
 
 ## Lenguaje de programación
-* **Java** (Desarrollado bajo un diseño modular limpio)[cite: 1].
+* **Java** (Desarrollado bajo un diseño modular limpio)
 
 ## Descripción del Proyecto
 Este programa implementa la solución de un sistema de ecuaciones lineales utilizando el **Método de Eliminación Gaussiana** con sustitución regresiva. El proyecto está estructurado modularmente en tres clases:
